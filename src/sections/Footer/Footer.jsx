@@ -34,11 +34,11 @@ const footerLinks = [
 const socialLinks = [
   {
     label: "GitHub",
-    href: "https://github.com/",
+    href: "https://github.com/Vipin6357",
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/vipin-gangwar-29a5ab2a1",
   },
 ];
 
